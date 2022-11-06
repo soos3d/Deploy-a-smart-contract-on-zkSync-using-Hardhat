@@ -285,6 +285,8 @@ The contract says: I was deployed on zkSync using HardHat!!
 Done in 274.77s.
 ```
 
+You'll find the contract on the [zkSync explorer](https://zksync2-testnet.zkscan.io/) at the address shown in the console!
+
 ## Conclusion
 
 Congrats on deploying your first smart contract on zkSyn using Hardhat!
