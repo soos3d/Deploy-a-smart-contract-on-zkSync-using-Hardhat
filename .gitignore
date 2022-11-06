@@ -1,0 +1,16 @@
+# vscode
+.vscode
+
+# hardhat
+artifacts-zk
+cache-zk
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+typechain
+
+# Environment variables
+.env
